@@ -10,6 +10,7 @@ shipper : người giao hàng
 kh : không
 ko : không
 k : không
+dc : được
 ship : giao hàng
 Ship : giao hàng
 t : tôi 
