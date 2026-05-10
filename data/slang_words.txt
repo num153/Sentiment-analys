@@ -1,55 +1,49 @@
-ae : anh em
-tks : cảm ơn
-bb : bye bye
-hcm : Hồ Chí Minh
-hn : Hà Nội
-km : khuyến mãi
-hàng fake : hàng giả
-freeship : miễn phí vận chuyển
-shipper : người giao hàng
+ae : anh_em
+tks : cảm_ơn
+bb : bye_bye
+hcm : Hồ Chí_Minh
+hn : Hà_Nội
+km : khuyến_mãi
+hàng fake : hàng_giả
+freeship : miễn_phí vận_chuyển
+shipper : người giao_hàng
 kh : không
 ko : không
 k : không
 dc : được
-ship : giao hàng
-Ship : giao hàng
-t : tôi 
-bth : bình thường
+ship : giao_hàng
+t : tôi
+bth : bình_thường
 đc : được
 ok : ổn
-vs : với 
-j : gì 
-chat : trò chuyện
+vs : với
+j : gì
+chat : trò_chuyện
 v : vậy
 z : vậy
-r : rồi 
-app : ứng dụng
-nhma : nhưng mà
-nma : nhưng mà 
-mn : mọi người
-lm : j
-acc : tài khoản
-mxh : mạng xã hội
-klq : không liên quan 
-thui: thôi
+r : rồi
+app : ứng_dụng
+nhma : nhưng_mà
+nma : nhưng_mà
+mn : mọi_người
+lm : làm
+acc : tài_khoản
+mxh : mạng xã_hội
+klq : không liên_quan
+thui : thôi
 thoi : thôi
 vkl : rất
 vl : rất
-cmt : bình luận
-rep : trả lời
-ib : nhắn tin
-inbox : nhắn tin
-sml : rất mệt
+cmt : bình_luận
+rep : trả_lời
+ib : nhắn_tin
+inbox : nhắn_tin
+sml : rất_mệt
 khum : không
 hok : không
-ko hiểu : không hiểu
+ko hiểu : không_hiểu
 fake : giả
-order : đặt hàng
-refund : hoàn tiền
-feedback : phản hồi
+order : đặt_hàng
+refund : hoàn_tiền
+feedback : phản_hồi
 del : xoá
-
-
-
-
-
